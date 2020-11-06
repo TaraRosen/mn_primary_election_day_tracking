@@ -1,0 +1,96 @@
+BEMIDJI W-1	U.S. Senator	Republican	Jim Newberger	4	6.67%
+BEMIDJI W-1	U.S. Senator	Democratic-Farmer-Labor	Amy Klobuchar	8	13.33%
+BEMIDJI W-1	U.S. Senator	Legal Marijuana Now	Dennis Schuller	12	20.00%
+BEMIDJI W-1	U.S. Senator	Minnesota Green Party	Paula M Overby	16	26.67%
+BEMIDJI W-1	U.S. Senator	Write-In	WRITE-IN**	20	33.33%
+BEMIDJI W-1	U.S. Senator Special Election	Republican	Karin Housley	4	6.67%
+BEMIDJI W-1	U.S. Senator Special Election	Democratic-Farmer-Labor	Tina Smith	8	13.33%
+BEMIDJI W-1	U.S. Senator Special Election	Legal Marijuana Now	Sarah Wellington	12	20.00%
+BEMIDJI W-1	U.S. Senator Special Election	Unaffiliated	Jerry Trooien	16	26.67%
+BEMIDJI W-1	U.S. Senator Special Election	Write-In	WRITE-IN**	20	33.33%
+BEMIDJI W-1	U.S. Representative District 7	Republican	Dave Hughes	4	16.67%
+BEMIDJI W-1	U.S. Representative District 7	Democratic-Farmer-Labor	Collin C. Peterson	8	33.33%
+BEMIDJI W-1	U.S. Representative District 7	WRITE-IN**	WRITE-IN**	12	50.00%
+BEMIDJI W-1	State Representative District 5A	Republican	Matt Bliss	4	16.67%
+BEMIDJI W-1	State Representative District 5A	Democratic-Farmer-Labor	John Persell	8	33.33%
+BEMIDJI W-1	State Representative District 5A	WRITE-IN**	WRITE-IN**	12	50.00%
+BEMIDJI W-1	Governor & Lt Governor	Republican	Jeff Johnson and Donna Bergstrom	4	6.67%
+BEMIDJI W-1	Governor & Lt Governor	Democratic-Farmer-Labor	Tim Walz and Peggy Flanagan	8	13.33%
+BEMIDJI W-1	Governor & Lt Governor	Grassroots - Legalize Cannabis	Chris Wright and Judith Schwartzbacker	12	20.00%
+BEMIDJI W-1	Governor & Lt Governor	Libertarian	Josh Welter and Mary O'Connor	16	26.67%
+BEMIDJI W-1	Governor & Lt Governor	Write-In	WRITE-IN**	20	33.33%
+BEMIDJI W-1	Secretary of State	Republican	John Howe	4	10.00%
+BEMIDJI W-1	Secretary of State	Democratic-Farmer-Labor	Steve Simon	8	20.00%
+BEMIDJI W-1	Secretary of State	Independence	William Denney	12	30.00%
+BEMIDJI W-1	Secretary of State	Write-In	WRITE-IN**	16	40.00%
+BEMIDJI W-1	State Auditor	Republican	Pam Myhra	4	6.67%
+BEMIDJI W-1	State Auditor	Democratic-Farmer-Labor	Julie Blaha	8	13.33%
+BEMIDJI W-1	State Auditor	Legal Marijuana Now	Michael Ford	12	20.00%
+BEMIDJI W-1	State Auditor	Libertarian Party	Chris Dock	16	26.67%
+BEMIDJI W-1	State Auditor	Write-In	WRITE-IN**	20	33.33%
+BEMIDJI W-1	Attorney General	Republican	Doug Wardlow	4	10.00%
+BEMIDJI W-1	Attorney General	Democratic-Farmer-Labor	Keith Ellison	8	20.00%
+BEMIDJI W-1	Attorney General	Grassroots - Legalize Cannabis	Noah M. Johnson	12	30.00%
+BEMIDJI W-1	Attorney General	Write-In	WRITE-IN**	16	40.00%
+BEMIDJI W-1	County Auditor/Treasurer	Nonpartisan	JoDee Treat	4	33.33%
+BEMIDJI W-1	County Auditor/Treasurer	WRITE-IN**	WRITE-IN**	8	66.67%
+BEMIDJI W-1	County Sheriff	Nonpartisan	Ernie Beitel	4	33.33%
+BEMIDJI W-1	County Sheriff	WRITE-IN**	WRITE-IN**	8	66.67%
+BEMIDJI W-1	County Attorney	Nonpartisan	David L. Hanson	4	33.33%
+BEMIDJI W-1	County Attorney	WRITE-IN**	WRITE-IN**	8	66.67%
+BEMIDJI W-1	Soil and Water Supervisor District 1	Nonpartisan	Ray Hendrickson	4	33.33%
+BEMIDJI W-1	Soil and Water Supervisor District 1	WRITE-IN**	WRITE-IN**	8	66.67%
+BEMIDJI W-1	Soil and Water Supervisor District 2	Nonpartisan	Rachel Gray	4	33.33%
+BEMIDJI W-1	Soil and Water Supervisor District 2	WRITE-IN**	WRITE-IN**	8	66.67%
+BEMIDJI W-1	Mayor (Bemidji)	Nonpartisan	Joe Vene	4	16.67%
+BEMIDJI W-1	Mayor (Bemidji)	Nonpartisan	Rita C. Albrecht	8	33.33%
+BEMIDJI W-1	Mayor (Bemidji)	WRITE-IN**	WRITE-IN**	12	50.00%
+BEMIDJI W-1	Council Member at Large (Bemidji)	Nonpartisan	Don Heinonen	4	16.67%
+BEMIDJI W-1	Council Member at Large (Bemidji)	Nonpartisan	Jim Thompson	8	33.33%
+BEMIDJI W-1	Council Member at Large (Bemidji)	WRITE-IN**	WRITE-IN**	12	50.00%
+BEMIDJI W-1	School Board Member at Large (ISD #31) (Elect 3)	Nonpartisan	Sarah Young	4	1.52%
+BEMIDJI W-1	School Board Member at Large (ISD #31) (Elect 3)	Nonpartisan	Bonnie Solomon	8	3.03%
+BEMIDJI W-1	School Board Member at Large (ISD #31) (Elect 3)	Nonpartisan	Carol L. Johnson	12	4.55%
+BEMIDJI W-1	School Board Member at Large (ISD #31) (Elect 3)	Nonpartisan	Shawn Whiting	16	6.06%
+BEMIDJI W-1	School Board Member at Large (ISD #31) (Elect 3)	Nonpartisan	Wenona Kingbird	20	7.58%
+BEMIDJI W-1	School Board Member at Large (ISD #31) (Elect 3)	Nonpartisan	Gary Rozman	24	9.09%
+BEMIDJI W-1	School Board Member at Large (ISD #31) (Elect 3)	Nonpartisan	Jeffrey Lind	28	10.61%
+BEMIDJI W-1	School Board Member at Large (ISD #31) (Elect 3)	Nonpartisan	Jack Aakhus	32	12.12%
+BEMIDJI W-1	School Board Member at Large (ISD #31) (Elect 3)	WRITE-IN**	WRITE-IN**	120	45.45%
+BEMIDJI W-1	Chief Justice - Supreme Court	Nonpartisan	Lorie Skjerven Gildea	4	33.33%
+BEMIDJI W-1	Chief Justice - Supreme Court	Write-In	WRITE-IN**	8	66.67%
+BEMIDJI W-1	Associate Justice - Supreme Court 1	Nonpartisan	Barry Anderson	4	33.33%
+BEMIDJI W-1	Associate Justice - Supreme Court 1	Write-In	WRITE-IN**	8	66.67%
+BEMIDJI W-1	Associate Justice - Supreme Court 2	Nonpartisan	Michelle MacDonald	4	16.67%
+BEMIDJI W-1	Associate Justice - Supreme Court 2	Nonpartisan	Margaret Chutich	8	33.33%
+BEMIDJI W-1	Associate Justice - Supreme Court 2	Write-In	WRITE-IN**	12	50.00%
+BEMIDJI W-1	Associate Justice - Supreme Court 5	Nonpartisan	Anne McKeig	4	33.33%
+BEMIDJI W-1	Associate Justice - Supreme Court 5	Write-In	WRITE-IN**	8	66.67%
+BEMIDJI W-1	Judge - Court of Appeals 2	Nonpartisan	Anthony L. Brown	4	16.67%
+BEMIDJI W-1	Judge - Court of Appeals 2	Nonpartisan	Lucinda Ellen Jesson	8	33.33%
+BEMIDJI W-1	Judge - Court of Appeals 2	Write-In	WRITE-IN**	12	50.00%
+BEMIDJI W-1	Judge - Court of Appeals 4	Nonpartisan	Tracy Smith	4	33.33%
+BEMIDJI W-1	Judge - Court of Appeals 4	Write-In	WRITE-IN**	8	66.67%
+BEMIDJI W-1	Judge - Court of Appeals 6	Nonpartisan	Renee L. Worke	4	33.33%
+BEMIDJI W-1	Judge - Court of Appeals 6	Write-In	WRITE-IN**	8	66.67%
+BEMIDJI W-1	Judge - Court of Appeals 7	Nonpartisan	Jill Flaskamp Halbrooks	4	33.33%
+BEMIDJI W-1	Judge - Court of Appeals 7	Write-In	WRITE-IN**	8	66.67%
+BEMIDJI W-1	Judge - Court of Appeals 12	Nonpartisan	Diane Bratvold	4	33.33%
+BEMIDJI W-1	Judge - Court of Appeals 12	Write-In	WRITE-IN**	8	66.67%
+BEMIDJI W-1	Judge - Court of Appeals 14	Nonpartisan	James B. Florey	4	33.33%
+BEMIDJI W-1	Judge - Court of Appeals 14	Write-In	WRITE-IN**	8	66.67%
+BEMIDJI W-1	Judge - 9th District Court 1	Nonpartisan	Shari Schluchter	4	33.33%
+BEMIDJI W-1	Judge - 9th District Court 1	WRITE-IN**	WRITE-IN**	8	66.67%
+BEMIDJI W-1	Judge - 9th District Court 3	Nonpartisan	David F. Hermerding	4	33.33%
+BEMIDJI W-1	Judge - 9th District Court 3	WRITE-IN**	WRITE-IN**	8	66.67%
+BEMIDJI W-1	Judge - 9th District Court 7	Nonpartisan	John G. Melbye	4	33.33%
+BEMIDJI W-1	Judge - 9th District Court 7	WRITE-IN**	WRITE-IN**	8	66.67%
+BEMIDJI W-1	Judge - 9th District Court 9	Nonpartisan	Heidi M. Chandler	4	33.33%
+BEMIDJI W-1	Judge - 9th District Court 9	WRITE-IN**	WRITE-IN**	8	66.67%
+BEMIDJI W-1	Judge - 9th District Court 10	Nonpartisan	Christopher J. Strandlie	4	33.33%
+BEMIDJI W-1	Judge - 9th District Court 10	WRITE-IN**	WRITE-IN**	8	66.67%
+BEMIDJI W-1	Judge - 9th District Court 13	Nonpartisan	Erik J. Askegaard	4	33.33%
+BEMIDJI W-1	Judge - 9th District Court 13	WRITE-IN**	WRITE-IN**	8	66.67%
+BEMIDJI W-1	Judge - 9th District Court 24	Nonpartisan	Annie Claesson-Huseby	4	33.33%
+BEMIDJI W-1	Judge - 9th District Court 24	WRITE-IN**	WRITE-IN**	8	66.67%
+Time:  0.4281899929046631
